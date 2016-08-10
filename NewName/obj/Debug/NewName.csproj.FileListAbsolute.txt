@@ -1,0 +1,13 @@
+c:\users\donato.ressa\documents\visual studio 2013\Projects\NewName\NewName\bin\Debug\NewName.exe.config
+c:\users\donato.ressa\documents\visual studio 2013\Projects\NewName\NewName\bin\Debug\NewName.exe
+c:\users\donato.ressa\documents\visual studio 2013\Projects\NewName\NewName\bin\Debug\NewName.pdb
+c:\users\donato.ressa\documents\visual studio 2013\Projects\NewName\NewName\obj\Debug\NewName.csprojResolveAssemblyReference.cache
+c:\users\donato.ressa\documents\visual studio 2013\Projects\NewName\NewName\obj\Debug\MainWindow.baml
+c:\users\donato.ressa\documents\visual studio 2013\Projects\NewName\NewName\obj\Debug\MainWindow.g.cs
+c:\users\donato.ressa\documents\visual studio 2013\Projects\NewName\NewName\obj\Debug\App.g.cs
+c:\users\donato.ressa\documents\visual studio 2013\Projects\NewName\NewName\obj\Debug\NewName_MarkupCompile.cache
+c:\users\donato.ressa\documents\visual studio 2013\Projects\NewName\NewName\obj\Debug\NewName.g.resources
+c:\users\donato.ressa\documents\visual studio 2013\Projects\NewName\NewName\obj\Debug\NewName.Properties.Resources.resources
+c:\users\donato.ressa\documents\visual studio 2013\Projects\NewName\NewName\obj\Debug\NewName.csproj.GenerateResource.Cache
+c:\users\donato.ressa\documents\visual studio 2013\Projects\NewName\NewName\obj\Debug\NewName.exe
+c:\users\donato.ressa\documents\visual studio 2013\Projects\NewName\NewName\obj\Debug\NewName.pdb
